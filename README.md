@@ -19,7 +19,7 @@ The goal of the app was to build it using React-native in conjuction with Redux.
 * How to link the actions to a React-native Component using MapStateToProps,
 * How to add animations on Components.
 
-[Completed application]§https://gyazo.com/fe3ddb9d0f1af02779fb9d7c5eaa0455)
+[Completed application](https://gyazo.com/fe3ddb9d0f1af02779fb9d7c5eaa0455)
 
 # Credits
 
